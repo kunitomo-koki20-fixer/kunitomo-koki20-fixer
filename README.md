@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=kunitomo-koki20-fixer)](https://github.com/ryo-ma/github-profile-trophy)
 
-<div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=kunitomo-koki20-fixer&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunitomo-koki20-fixer&layout=compact" />
-</div>
+[![](https://raw.githubusercontent.com/kunitomo-koki20-fixer/kunitomo-koki20-fixer/master/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/kunitomo-koki20-fixer/kunitomo-koki20-fixer/master/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/kunitomo-koki20-fixer/kunitomo-koki20-fixer/master/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
